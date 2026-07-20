@@ -8,7 +8,7 @@
 
 <a href="mailto:nachiketborse1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/nachiketborse1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Nachiket1531"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Indore,%20India-informational?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
@@ -80,12 +80,12 @@ fun_fact: "I turn LLMs into agents that actually get things done."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nachiketborse1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=2E9EF7&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nachiketborse1&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=2E9EF7" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nachiket1531&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=2E9EF7&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nachiket1531&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=2E9EF7" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachiketborse1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachiket1531&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nachiketborse1&theme=react-dark&hide_border=true&bg_color=0D1117&color=2E9EF7&line=8E2DE2&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nachiket1531&theme=react-dark&hide_border=true&bg_color=0D1117&color=2E9EF7&line=8E2DE2&point=ffffff" width="95%"/>
 
 </div>
 
