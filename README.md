@@ -78,10 +78,7 @@ fun_fact: "I turn LLMs into agents that actually get things done."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nachiket1531&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=2E9EF7&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nachiket1531&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=2E9EF7" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachiket1531&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2" height="165"/>
 
 </div>
 
