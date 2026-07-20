@@ -85,7 +85,7 @@ fun_fact: "I turn LLMs into agents that actually get things done."
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachiket1531&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nachiket1531&theme=react-dark&hide_border=true&bg_color=0D1117&color=2E9EF7&line=8E2DE2&point=ffffff" width="95%"/>
+<img src="https://ghchart.rshah.org/8E2DE2/Nachiket1531" alt="Nachiket's Contribution Graph" width="95%"/>
 
 </div>
 
