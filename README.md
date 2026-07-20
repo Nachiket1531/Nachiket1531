@@ -1,87 +1,109 @@
-<h1 align="center">Hi, I'm Nachiket Borse 👋</h1>
-<h3 align="center">Python Backend & GenAI Developer | Building AI Agents, RAG Pipelines & Scalable APIs</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=FastAPI+%2B+OpenAI+%2B+LangChain+%2B+RAG;Building+Production-Ready+AI+Applications;2%2B+Years+of+Backend+%26+GenAI+Experience" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=220&section=header&text=Nachiket%20Borse&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%2F%20GenAI%20Developer&descAlignY=55&descSize=22" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nachiketborse1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Indore,%20India-informational?style=for-the-badge"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=650&lines=Building+Production-Ready+AI+Applications;FastAPI+%2B+OpenAI+%2B+LangChain+%2B+RAG;Designing+Autonomous+AI+Agents;Scalable+Cloud-Native+Backend+Systems" />
 
----
+<br/>
 
-### 🧑‍💻 About Me
+<a href="mailto:nachiketborse1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/nachiketborse1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Indore,%20India-informational?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-- 🔭 Currently working as a **Python Developer** at **Steve's AI Lab Pvt Ltd**, building AI-driven backend systems
-- 🤖 I design **AI agents** and **RAG pipelines** using OpenAI, LangChain & LangGraph
-- 🏗️ I build scalable **REST APIs** with **FastAPI**, backed by **PostgreSQL** and **Supabase**
-- ☁️ Comfortable deploying and managing services on **AWS (EC2, S3)**
-- 🎓 MCA graduate from **DAVV, School of Computer Science and IT, Indore** (2022–2024)
-- 📫 Reach me at **nachiketborse1@gmail.com**
+</div>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+### 🧠 About Me
 
----
+```yaml
+role: Python Backend & GenAI Developer
+experience: "2+ years"
+company: Steve's AI Lab Pvt Ltd
+focus: [AI Agents, RAG Pipelines, REST APIs, Cloud-Native Backends]
+currently_exploring: Multi-agent orchestration with LangGraph
+education: "MCA — DAVV, School of Computer Science & IT, Indore (2022–2024)"
+fun_fact: "I turn LLMs into agents that actually get things done."
+```
 
-### 🚀 Featured Projects
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
-#### 🌐 [BorderWise AI — AI Immigration Assistant Platform](#)
-`Python` `FastAPI` `OpenAI` `LangChain` `RAG` `Pinecone` `Supabase` `AWS EC2`
-- Deployed an AI microservice on AWS EC2, exposing REST APIs consumed by a Next.js frontend
-- Built autonomous AI agents that analyze user progress and recommend personalized next steps
-- Implemented a RAG chatbot over an immigration knowledge base, cutting repetitive support queries
-- Built an escalation workflow that auto-schedules consultations with immigration lawyers for complex cases
+### ⚡ Tech Arsenal
 
-#### 🛡️ [FastGuard — Service Management Platform](#)
-`Python` `FastAPI` `Supabase` `PostgreSQL` `Redis` `AWS EC2` `FCM` `Twilio` `ZEGOCLOUD` `Zoho CRM/Books`
-- Built a scalable backend powering a guard service management platform, deployed on AWS EC2
-- Automated Zoho CRM/Books integration to generate estimates and invoices on booking creation
-- Developed a guard hiring portal and admin dashboard for applications, onboarding, and recruitment
-- Implemented real-time shift scheduling, attendance, and live guard tracking using Redis
-- Integrated FCM push notifications, Twilio automated calls, and ZEGOCLOUD video calling
+<table align="center">
+<tr>
+<td valign="top" width="33%">
 
-> ✏️ Replace the `#` links above with your actual GitHub repo URLs once you push the code.
+**Languages & Backend**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 
----
+</td>
+<td valign="top" width="33%">
 
-### 📊 GitHub Stats
+**Generative AI**
+<br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-8E2DE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Agents-2E9EF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=flat-square"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nachiketborse1&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nachiketborse1&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
+</td>
+<td valign="top" width="33%">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachiketborse1&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+**Data & Cloud**
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
----
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nachiketborse1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=2E9EF7&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nachiketborse1&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=2E9EF7" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachiketborse1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nachiketborse1&theme=react-dark&hide_border=true&bg_color=0D1117&color=2E9EF7&line=8E2DE2&point=ffffff" width="95%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
 ### 🏆 Certifications
 
-- Python Programming — Universal Informatics, Indore
-- SQL (Basic) — HackerRank
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/Python%20Programming-Universal%20Informatics-2E9EF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL%20(Basic)-HackerRank-8E2DE2?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 
-<p align="center"><i>Thanks for stopping by — always happy to connect and talk about AI agents, RAG systems, or backend architecture!</i></p>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E9EF7&height=100&section=footer"/>
+
+<div align="center">
+<i>💬 Always up for a conversation about AI agents, RAG systems, or backend architecture — let's connect!</i>
+</div>
