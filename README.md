@@ -20,13 +20,12 @@
 ### 🧠 About Me
 
 ```yaml
-role: Python Backend & GenAI Developer
-experience: "2+ years"
-company: Steve's AI Lab Pvt Ltd
-focus: [AI Agents, RAG Pipelines, REST APIs, Cloud-Native Backends]
-currently_exploring: Multi-agent orchestration with LangGraph
-education: "MCA — DAVV, School of Computer Science & IT, Indore (2022–2024)"
-fun_fact: "I turn LLMs into agents that actually get things done."
+Role: Python Backend & GenAI Developer
+Experience: "2+ years"
+Company: Steve's AI Lab Pvt Ltd
+Focus: [AI Agents, RAG Pipelines, REST APIs, Cloud-Native Backends]
+Education: "MCA — DAVV, School of Computer Science & IT, Indore (2022–2024)"
+Fun fact: "I turn LLMs into agents that actually get things done."
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
