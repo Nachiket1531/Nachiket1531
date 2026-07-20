@@ -20,12 +20,13 @@
 ### 🧠 About Me
 
 ```yaml
-Role: Python Backend & GenAI Developer
-Experience: "2+ years"
-Company: Steve's AI Lab Pvt Ltd
-Focus: [AI Agents, RAG Pipelines, REST APIs, Cloud-Native Backends]
-Education: "MCA — DAVV, School of Computer Science & IT, Indore (2022–2024)"
-Fun fact: "I turn LLMs into agents that actually get things done."
+role: Python Backend & GenAI Developer
+experience: "2+ years"
+company: Steve's AI Lab Pvt Ltd
+focus: [AI Agents, RAG Pipelines, REST APIs, Cloud-Native Backends]
+currently_exploring: Multi-agent orchestration with LangGraph
+education: "MCA — DAVV, School of Computer Science & IT, Indore (2022–2024)"
+fun_fact: "I turn LLMs into agents that actually get things done."
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
@@ -84,7 +85,15 @@ Fun fact: "I turn LLMs into agents that actually get things done."
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachiket1531&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2" height="165"/>
 
-<img src="https://ghchart.rshah.org/8E2DE2/Nachiket1531" alt="Nachiket's Contribution Graph" width="95%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Nachiket1531/Nachiket1531/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 </div>
 
