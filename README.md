@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E2DE2&height=3&width=1000" width="100%"/>
 
 ### 🧠 About Me
 
@@ -29,7 +29,7 @@ education: "MCA — DAVV, School of Computer Science & IT, Indore (2022–2024)"
 fun_fact: "I turn LLMs into agents that actually get things done."
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E2DE2&height=3&width=1000" width="100%"/>
 
 ### ⚡ Tech Arsenal
 
@@ -74,9 +74,7 @@ fun_fact: "I turn LLMs into agents that actually get things done."
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-
-### 📊 GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E2DE2&height=3&width=1000" width="100%"/>
 
 <div align="center">
 
@@ -91,13 +89,11 @@ fun_fact: "I turn LLMs into agents that actually get things done."
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
 <img src="https://raw.githubusercontent.com/Nachiket1531/Nachiket1531/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E2DE2&height=3&width=1000" width="100%"/>
 
 ### 🏆 Certifications
 
